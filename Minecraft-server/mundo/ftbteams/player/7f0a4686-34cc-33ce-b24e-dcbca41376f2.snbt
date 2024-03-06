@@ -1,0 +1,17 @@
+{
+	id: "7f0a4686-34cc-33ce-b24e-dcbca41376f2"
+	type: "player"
+	player_name: "Djerez"
+	ranks: {
+		7f0a4686-34cc-33ce-b24e-dcbca41376f2: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Djerez"
+		"ftbteams:description": ""
+		"ftbteams:color": "#D859FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

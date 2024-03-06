@@ -1,0 +1,17 @@
+{
+	id: "74e9eded-ffc6-3285-92d3-96b63ea11e59"
+	type: "player"
+	player_name: "myr1"
+	ranks: {
+		74e9eded-ffc6-3285-92d3-96b63ea11e59: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "myr1"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59B8FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

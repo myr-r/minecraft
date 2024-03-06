@@ -1,0 +1,17 @@
+{
+	id: "91ca7f71-8651-3371-89b7-8d9813fb6a59"
+	type: "player"
+	player_name: "lolomax"
+	ranks: {
+		91ca7f71-8651-3371-89b7-8d9813fb6a59: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "lolomax"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FFB3"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

@@ -1,0 +1,44 @@
+[
+  {
+    "dimension": {
+      "f_135804_": "minecraft",
+      "f_135805_": "overworld"
+    },
+    "id": "87e380f9-9316-49d5-809e-559d0ef8699a",
+    "ownerID": "7f0a4686-34cc-33ce-b24e-dcbca41376f2",
+    "pos": {
+      "f_123285_": 251,
+      "f_123286_": 70,
+      "f_123289_": 293
+    },
+    "type": 0
+  },
+  {
+    "dimension": {
+      "f_135804_": "minecraft",
+      "f_135805_": "overworld"
+    },
+    "id": "c47060ce-9d3d-44e5-ac38-d7ef0dec7b86",
+    "ownerID": "7f0a4686-34cc-33ce-b24e-dcbca41376f2",
+    "pos": {
+      "f_123285_": -18,
+      "f_123286_": 9,
+      "f_123289_": 365
+    },
+    "type": 0
+  },
+  {
+    "dimension": {
+      "f_135804_": "minecraft",
+      "f_135805_": "overworld"
+    },
+    "id": "9a6f450b-6931-4a68-a1c8-13d28e7cc136",
+    "ownerID": "74e9eded-ffc6-3285-92d3-96b63ea11e59",
+    "pos": {
+      "f_123285_": -1352,
+      "f_123286_": 64,
+      "f_123289_": -604
+    },
+    "type": 0
+  }
+]

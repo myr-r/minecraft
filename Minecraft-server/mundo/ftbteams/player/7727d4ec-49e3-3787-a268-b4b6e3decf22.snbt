@@ -1,0 +1,17 @@
+{
+	id: "7727d4ec-49e3-3787-a268-b4b6e3decf22"
+	type: "player"
+	player_name: "Titow0"
+	ranks: {
+		7727d4ec-49e3-3787-a268-b4b6e3decf22: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Titow0"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FF96"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

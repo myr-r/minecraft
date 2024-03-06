@@ -1,0 +1,22 @@
+{
+	version: 1
+	uuid: "3d8023d229a744db8bd4ab1580febf5e"
+	name: "Djerez"
+	lock: false
+	rewards_blocked: false
+	task_progress: {
+		503F8524875C623B: 1
+	}
+	started: {
+		503F8524875C623B: 1709492447880L
+		0000000000000001: 1709492447880L
+		76992E019CD55E76: 1709492447880L
+		75A430761607DC45: 1709492447880L
+	}
+	completed: {
+		503F8524875C623B: 1709492447890L
+		75A430761607DC45: 1709492447890L
+	}
+	claimed_rewards: { }
+	player_data: { }
+}
